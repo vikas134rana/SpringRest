@@ -1,0 +1,13 @@
+{
+  "firstName" : "Aman",
+  "lastName" : "Singh",
+  "age" : 22,
+  "salary" : 25000.0,
+  "address" : {
+    "address" : "Katwaria",
+    "city" : "Delhi",
+    "zipcode" : 110016,
+    "country" : "India"
+  },
+  "hobbies" : [ "Travel", "Movies" ]
+}

@@ -1,0 +1,16 @@
+{
+
+	"firstName": "Vikas",
+	"lastName": "Rana",
+	"age": 27,
+	"salary": 45000,
+	"address":{
+		"address": "Mata Mandir Colony",
+		"city": "Dehradun",
+		"zipcode": 248001,
+		"country": "India"	
+	},
+	"hobbies": ["cricket", "football", "computer games"],
+	"medical":"true"
+
+}
